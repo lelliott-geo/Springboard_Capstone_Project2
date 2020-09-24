@@ -1,1 +1,5 @@
-# Springboard_Capstone_Project_2: Automated Tagging of Stack Overflow Data Science Posts Using Natural Language Processing
+# Springboard_Capstone_Project_2: Automated Tagging of Stack Exchange Data Science Posts Using Natural Language Processing
+
+# Introduction
+
+For many question answering websites (Stack Overflow, Stack Exchange, Quora, Answerbag, Yahoo, WikiAnswers, etc.), a plethora of questions on many different subjects are submitted each day.  Each question requires tagging with words or phrases to provide context for and to categorize that question. These tags are an important ranking factor in most of these website’s  search algorithm, so it is important for them to be as accurate as possible in order to ensure the best customer experience.  The more quickly and accurately the tags can be assigned, the better the service can be about sending the right question to the right set of people for answering and the quicker the turnaround time for an answer to that question.  The tags also provide the users with the ability to sort and filter through questions and answers on their topic of concern.  Therefore automated tagging has become a necessity among these websites.  The objective of this capstone is to build an algorithm to predict the tags using the text in the questions themselves.
