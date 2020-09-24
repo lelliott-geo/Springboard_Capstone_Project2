@@ -1,2 +1,1 @@
-# Springboard_Capstone_Project2
-Automated Tagging of StackOverflow Posts Using Natural Language Processing
+# Springboard_Capstone_Projec 2: Automated Tagging of Stack Overflow Data Science Posts Using Natural Language Processing
