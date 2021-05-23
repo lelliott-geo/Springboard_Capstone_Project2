@@ -29,16 +29,16 @@ A next step would be to work to build a model that can predict multiple tags now
 
 # Repository Structure
 
-CP2_01_Convert XML to DF.ipynb
-CP2_02_Load DF Clean and Analyze.ipynb
-CP2_03_Clean_Body_Text.ipynb
-CP2_04_Analyze_Features.ipynb
-CP2_05_Transformations.ipynb
-CP2_05_Transformations.ipynb
-CP2_06_RandomForestModelling.ipynb
-CP2_07_LightgbmModelling.ipynb
-CP2_08_BernoulliNaiveBayes.ipynb
-Springboard_Capstone_Project_2_Milestone_Report1.pdf
-Springboard_Capstone_Project_2_Milestone_Report2.pdf
-Coming Soon! The Final Report
-CP2_Final_Presentation_LAE.pdf
+# CP2_01_Convert XML to DF.ipynb
+# CP2_02_Load DF Clean and Analyze.ipynb
+# CP2_03_Clean_Body_Text.ipynb
+# CP2_04_Analyze_Features.ipynb
+# CP2_05_Transformations.ipynb
+# CP2_05_Transformations.ipynb
+# CP2_06_RandomForestModelling.ipynb
+# CP2_07_LightgbmModelling.ipynb
+# CP2_08_BernoulliNaiveBayes.ipynb
+# Springboard_Capstone_Project_2_Milestone_Report1.pdf
+# Springboard_Capstone_Project_2_Milestone_Report2.pdf
+# Coming Soon! The Final Report
+# CP2_Final_Presentation_LAE.pdf
