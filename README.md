@@ -1,4 +1,4 @@
-# Springboard_Capstone_Project_2: Automated Tagging of Stack Exchange Data Science Posts Using Natural Language Processing
+# Springboard Capstone Project 2: Automated Tagging of Stack Exchange Data Science Posts Using Natural Language Processing
 
 # Problem Definition
 
